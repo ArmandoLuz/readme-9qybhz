@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ArmandoLuz.github.io/readme-9qybhz/sitemap.xml
